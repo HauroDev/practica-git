@@ -1,2 +1,1 @@
-console.log('Hello git!')
-console.log('¿Que tal el curso?')
+console.log('new Hello git!')
